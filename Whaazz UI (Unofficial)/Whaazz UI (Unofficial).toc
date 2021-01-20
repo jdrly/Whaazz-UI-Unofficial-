@@ -1,0 +1,5 @@
+## Interface: 90002
+## Title: Whaazz UI (Unofficial)
+## Author: Pharaphobia (Scripts by Whaazz)
+frames.lua
+bars.lua
