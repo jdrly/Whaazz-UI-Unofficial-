@@ -1,4 +1,4 @@
-message('Please set your UI scale to 0.80 or 0.85 used by Whaazz')
+--[message('Please set your UI scale to 0.80 or 0.85 used by Whaazz')]--
 
 MainMenuBarArtFrame:ClearAllPoints()
 MainMenuBarArtFrame:SetPoint("CENTER",2,2)
